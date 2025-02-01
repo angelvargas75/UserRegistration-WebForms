@@ -168,5 +168,14 @@
             }
         }
     </style>
+
+    <script type="text/javascript">
+         $(document).ready(function () {
+            history.pushState(null, null, location.href);
+            window.onpopstate = function () {
+                history.go(1);
+            };
+        });
+    </script>
 </asp:Content>
 
