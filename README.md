@@ -55,11 +55,15 @@ La aplicación implementa medidas de seguridad estándar, incluyendo:
 - Los **parámetros de la URL** van cifrados con un algoritmo para encriptar y desencriptar.
 
 ## Actualización de la Aplicación
-Esta versión es una mejora significativa de la primera iteración de UserRegistration-WebForms. Se corrigieron errores de validación de fechas para garantizar una mejor integridad de los datos y evitar inconsistencias en el registro de usuarios.
+Esta versión es una mejora significativa de la primera version. Se corrigieron errores de validación de fechas para garantizar una mejor integridad de los datos y evitar inconsistencias en el registro de usuarios.
 
 Además, utilizando HTML5 y CSS3 se realizó una renovación completa del diseño, adoptando una interfaz más moderna, intuitiva y totalmente responsiva, optimizada para distintos dispositivos y tamaños de pantalla. También se mejoró la experiencia de usuario (UX) mediante una navegación más fluida y una presentación de datos más clara y organizada.
 
 Otras optimizaciones incluyen mejoras en el rendimiento, optimización de consultas a la base de datos y refactorización del código para hacerlo más mantenible y escalable.
+
+## Enlace a la aplicación
+
+Puedes acceder a la aplicación en el siguiente enlace: [UserRegistration](http://demo2.somee.com/Pages/Index.aspx)
 
 ## Consideraciones adicionales
 - Asegúrate de que el **servidor de base de datos** esté en funcionamiento y accesible antes de ejecutar la aplicación.
